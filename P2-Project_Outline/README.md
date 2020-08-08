@@ -27,7 +27,8 @@ characters, and they can only be seen by your friends list. You will also be abl
 - Thymleaf
 
 ### What I'll Have to Learn
-I will need to learn to how to implement a friending system. 
+I will need to learn to how to implement a friending system. I will also need to solve the challenges of scaling an application
+that has these features. 
 
 ### Project Tracker
 https://trello.com/b/w7JfMN0d/twitter-clone

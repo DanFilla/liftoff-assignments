@@ -7,8 +7,17 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+This will be the homepage if a user is logged in.
 ![image](./index.jpg)
 
+This will be the login/register screen.
+![image](./Mini-Blog.jpg)
+
+This will be the User profile page.
+![image](./User Profile page.jpg)
+
+This will be the friends setting page.
+![image](./Friends Settings.jpg)
 
 ### Project Tracker
 

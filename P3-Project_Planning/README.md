@@ -14,7 +14,7 @@ This will be the login/register screen.
 ![image](./Mini-Blog.jpg)
 
 This will be the User profile page.
-![image](./UserProfilepage.jpg)
+![image](./Userprofilepage.jpg)
 
 This will be the friends setting page.
 ![image](./FriendsSettings.jpg)

@@ -14,10 +14,10 @@ This will be the login/register screen.
 ![image](./Mini-Blog.jpg)
 
 This will be the User profile page.
-![image](./User Profile page.jpg)
+![image](./UserProfilepage.jpg)
 
 This will be the friends setting page.
-![image](./Friends Settings.jpg)
+![image](./FriendsSettings.jpg)
 
 ### Project Tracker
 

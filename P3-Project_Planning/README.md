@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-[image] (./index.jpg)
+![image](./index.jpg)
 
 
 ### Project Tracker

@@ -21,8 +21,9 @@ This will be the friends setting page.
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/w7JfMN0d/twitter-clone
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/DanFilla/Mini-Blog
+
